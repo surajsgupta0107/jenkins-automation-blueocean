@@ -14,7 +14,7 @@ date'''
       parallel {
         stage('Test') {
           steps {
-            echo 'test'
+            echo 'Test'
           }
         }
 
